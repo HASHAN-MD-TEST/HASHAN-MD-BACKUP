@@ -1,16 +1,16 @@
 {
   "name": "HASHAN-MD",
   "description": "Javascript WhatsApp bot made by Hashiya coder sl",
-  "logo": "https://files.catbox.moe/sn20tl.jpg",
+  "logo": "https://i.ibb.co/Kjq97rcG/3575.jpg",
   "keywords": ["HASHAN-MD"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "3RsWwYLK#rWt1OTc1PeKYJUIIUp-rDlfdU2KfLOL_c3rddTd3otU",
+      "description": "UAw3laCZ#EtF_1YFKba0T3VbE1G5nbbqSL5oWMuMuDqOVUTq7Jpo",
       "required": true,
-      "value": "3RsWwYLK#rWt1OTc1PeKYJUIIUp-rDlfdU2KfLOL_c3rddTd3otU"
+      "value": "UAw3laCZ#EtF_1YFKba0T3VbE1G5nbbqSL5oWMuMuDqOVUTq7Jpo"
     },  
     
     "STICKER_NAME": {
